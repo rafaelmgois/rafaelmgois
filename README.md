@@ -1,5 +1,5 @@
 ## Hey, there !!! I'm Rafael Góis 拉斐尔
-## i'm Rafael and currently study industrial engineering at Federal University of Santa Catarina, Brazil. Interest in Project Management, Supply Chain Management, Industry 4.0 and Lean philosophy. !
+## i'm Rafael and currently study Industrial Engineering at Federal University of Santa Catarina, Brazil. Interest in Project Management, Supply Chain Management, Industry 4.0 and Lean Philosophy !
 <div align="center">
   <a href="https://github.com/rafaelmgois">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmgois&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
