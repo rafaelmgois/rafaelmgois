@@ -6,8 +6,6 @@
 
 📫 How to reach me:
 
-rafaelmgois@gmail.com
-
-https://www.linkedin.com/in/rafaelmgois/
-
-+5548998381962
+* rafaelmgois@gmail.com
+* https://www.linkedin.com/in/rafaelmgois/
+* +5548998381962
