@@ -1,4 +1,4 @@
-## Hey, there !!! I'm Rafael Góis 拉斐尔
+## Hey, there !!! I'm Rafael Góis
 
 <div align="center">
   <a href="https://github.com/rafaelmgois">
