@@ -2,7 +2,7 @@
 
 💻 I'm a self-taught in coding languages (Python and JavaScript), data engineering (Spark, Kafka, Airflow, MySQL, cloud AWS & Azure, Git, Jupyter, Power BI), Web (MongoDB, React, Express e Node.JS) and Projects (Scrum, Lean, Kanban, Extreme Programming, Trello e MS Project).
 
-📈 Here you can find data analysis projects and machine learning models such as linear regression, extra trees and random forest. Also web development projects!
+📈 Here you can find data analysis projects, machine learning models such (linear regression, extra trees and random forest) and web development projects.
 
 📫 How to reach me:
 
