@@ -1,33 +1,13 @@
-## Hey, there !!! I'm Rafael Góis
+👋 Hi, I'm passionate about knowledge, always seeking to learn more and share ideas. Interest in solving complex problems, large-scale projects and generating value to the end customer with data engineering.
 
-<div align="center">
-  <a href="https://github.com/rafaelmgois">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=rafaelmgois&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmgois&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-   
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-        
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
-          
-          
-   <img align="center" alt="Rafa-Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
-   <img align="center" alt="Rafa-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-</div>
-  
-  ##
- 
-<div> 
+💻 I'm a self-taught in coding languages (Python and JavaScript), data engineering (Spark, Kafka, Airflow, MySQL, cloud AWS & Azure, Git, Jupyter, Power BI), Web (MongoDB, React, Express e Node.JS) and Projects (Scrum, Lean, Kanban, Extreme Programming, Trello e MS Project).
 
-  <a href = "mailto:rafaelmgois@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaelmgois" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaelmgois/rafaelmgois/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+📈 Here you can find data analysis projects and machine learning models such as linear regression, extra trees and random forest. Also web development projects!
+
+📫 How to reach me:
+
+rafaelmgois@gmail.com
+
+https://www.linkedin.com/in/rafaelmgois/
+
++5548998381962
