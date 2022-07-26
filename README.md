@@ -1,6 +1,6 @@
 👋 Front-end developer who cares deeply about user experience. Serious passion for graphic design, digital art, concept art, visual development art and web design.
 
-💻 I'm a self-taught in coding languages (Python and JavaScript), design (Figma, Adobe XD, Photoshop, Illustrator, After effects, Maxon Cinema 4D, OTOY, Blender, Maya), web (HTML, CSS, React, Vue, Angular) and Projects (Scrum, Lean, Kanban, Extreme Programming, Trello, Jira e Notion).
+💻 I'm a self-taught in coding languages (Python and JavaScript), design (Figma, Adobe XD, Photoshop, Illustrator, After effects, Maxon Cinema 4D, OTOY, Blender, Maya), web (HTML, CSS, React, React Native) and Projects (Scrum, Lean, Kanban, Extreme Programming, Trello, Jira e Notion).
 
 📈 Here you can find web development projects.
 
