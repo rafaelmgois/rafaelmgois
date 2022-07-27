@@ -8,4 +8,5 @@
 
 * rafaelmgois@gmail.com
 * https://www.linkedin.com/in/rafaelmgois/
+* https://www.artstation.com/rafaelmgois
 * +5548998381962
